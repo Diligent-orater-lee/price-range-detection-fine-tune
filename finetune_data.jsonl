@@ -1,0 +1,1000 @@
+{"input": "extract price range: refrigerator not exceeding 1,299", "output": "{\"min\": null, \"max\": 1299}"}
+{"input": "extract price range: black headphones less than 8,999", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: comfortable shirt", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: camera with good battery life", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: blue sofa for men", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: need drone, nothing over 7999", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: best bicycle for daily use", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: lightweight bicycle", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: want sofa costing more than 10k", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: durable shoes", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: canon camera at most 2999", "output": "{\"min\": null, \"max\": 2999}"}
+{"input": "extract price range: watch INR 99 to 50000", "output": "{\"min\": 99, \"max\": 50000}"}
+{"input": "extract price range: white earbuds under 1999 please", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: earbuds, at least ₹1499 range", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: trending shirt", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: jacket under around 199", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: navy dell phone between 1499 and Rs. 199", "output": "{\"min\": 199, \"max\": 1499}"}
+{"input": "extract price range: dell microwave costing between 3499 and 7k", "output": "{\"min\": 3499, \"max\": 6999}"}
+{"input": "extract price range: looking for a shirt from roughly 799 to Rs. 1999", "output": "{\"min\": 799, \"max\": 1999}"}
+{"input": "extract price range: sofa for less than 1999", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: show me headphones under 10000", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: earbuds priced from 20,000 and up", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: chair max 20k", "output": "{\"min\": null, \"max\": 20000}"}
+{"input": "extract price range: need speaker in 1299 to 199 range", "output": "{\"min\": 199, \"max\": 1299}"}
+{"input": "extract price range: grey chair priced from 199 to 7999", "output": "{\"min\": 199, \"max\": 7999}"}
+{"input": "extract price range: show me headphones between 15,000 and 25000", "output": "{\"min\": 15000, \"max\": 25000}"}
+{"input": "extract price range: looking for blue drone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shirt within Rs. 799 and INR 1299", "output": "{\"min\": 799, \"max\": 1299}"}
+{"input": "extract price range: apple sunglasses in navy", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: cheap apple sunglasses", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: new arrivals sunglasses", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: jacket that won't break the bank over around 3999", "output": "{\"min\": null, \"max\": 3999}"}
+{"input": "extract price range: top rated laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: cheap red shoes", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: comfortable sunglasses", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: jacket recommendations", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: jacket priced below 2999", "output": "{\"min\": null, \"max\": 2999}"}
+{"input": "extract price range: keyboard recommendations", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: white laptop priced from 50000 to 2499", "output": "{\"min\": 2499, \"max\": 50000}"}
+{"input": "extract price range: anything affordable around 6999 ish", "output": "{\"min\": null, \"max\": 6999}"}
+{"input": "extract price range: red tv less than 5k", "output": "{\"min\": null, \"max\": 4999}"}
+{"input": "extract price range: red lg watch between 15k and 9999", "output": "{\"min\": 9999, \"max\": 15000}"}
+{"input": "extract price range: backpack on sale", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me nike keyboard", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: ring somewhere in 9999 to Rs. 15000", "output": "{\"min\": 9999, \"max\": 15000}"}
+{"input": "extract price range: laptop up to 99", "output": "{\"min\": null, \"max\": 99}"}
+{"input": "extract price range: minimum 599 for ring", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: minimum 1499 for camera", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: brown canon chair above 2,999", "output": "{\"min\": 2999, \"max\": null}"}
+{"input": "extract price range: refrigerator priced from 99 and up", "output": "{\"min\": 99, \"max\": null}"}
+{"input": "extract price range: want a shirt somewhere between 5,999 and 8999", "output": "{\"min\": 5999, \"max\": 8999}"}
+{"input": "extract price range: affordable tablet", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me sunglasses over roughly 5999", "output": "{\"min\": 5999, \"max\": null}"}
+{"input": "extract price range: durable chair", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: want a jacket somewhere between 1999 and 7999", "output": "{\"min\": 1999, \"max\": 7999}"}
+{"input": "extract price range: chair under Rs. 10000", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: need bicycle above 6k budget", "output": "{\"min\": 5999, \"max\": null}"}
+{"input": "extract price range: speaker cheaper than ₹6999", "output": "{\"min\": null, \"max\": 6999}"}
+{"input": "extract price range: lightweight tablet", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sony ring in grey", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: drone starting from 599", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: looking for headphones below ₹999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: need a microwave no more than INR 1499", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: looking for earbuds below 20000", "output": "{\"min\": null, \"max\": 20000}"}
+{"input": "extract price range: white samsung refrigerator above 9999", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: top rated sunglasses", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: tv, budget Rs 6999 to 20k", "output": "{\"min\": 6999, \"max\": 20000}"}
+{"input": "extract price range: affordable brown drone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sofa for gifting", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: I am looking for products priced between 2,999 and 999", "output": "{\"min\": 999, \"max\": 2999}"}
+{"input": "extract price range: red lg bicycle between 1299 and 15000", "output": "{\"min\": 1299, \"max\": 15000}"}
+{"input": "extract price range: green dell watch between 99 and ₹5999", "output": "{\"min\": 99, \"max\": 5999}"}
+{"input": "extract price range: drone not under 4999", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: refrigerator with good battery life", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: laptop for less than roughly 299", "output": "{\"min\": null, \"max\": 299}"}
+{"input": "extract price range: looking for a watch from 299 to 1299", "output": "{\"min\": 299, \"max\": 1299}"}
+{"input": "extract price range: budget jacket", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: phone cheaper than around 10000", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: need watch above 2.5k budget", "output": "{\"min\": 2499, \"max\": null}"}
+{"input": "extract price range: looking for sofa below 599", "output": "{\"min\": null, \"max\": 599}"}
+{"input": "extract price range: want backpack for under 7999", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: I need a samsung speaker priced between Rs. 8999 and 10000", "output": "{\"min\": 8999, \"max\": 10000}"}
+{"input": "extract price range: looking for navy backpack", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: budget laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: keyboard somewhere in 599 to 6999", "output": "{\"min\": 599, \"max\": 6999}"}
+{"input": "extract price range: tv on sale", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: affordable bicycle", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: tablet more than 799 preferred", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: monitor at least 7,999", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: bose drone costing between 5999 and 20000", "output": "{\"min\": 5999, \"max\": 20000}"}
+{"input": "extract price range: looking for a sofa from 2499 to 10k", "output": "{\"min\": 2499, \"max\": 9999}"}
+{"input": "extract price range: headphones in the range of 99 to 199", "output": "{\"min\": 99, \"max\": 199}"}
+{"input": "extract price range: camera not under 15000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: drone for women", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: tv that costs more than roughly 9999", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: need a phone no more than 50000", "output": "{\"min\": null, \"max\": 50000}"}
+{"input": "extract price range: chair 199 to Rs. 25000", "output": "{\"min\": 199, \"max\": 25000}"}
+{"input": "extract price range: need a shirt no more than 3499", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: apple speaker costing between 799 and roughly 10000", "output": "{\"min\": 799, \"max\": 10000}"}
+{"input": "extract price range: from around 1299 to around 8999 for a keyboard", "output": "{\"min\": 1299, \"max\": 8999}"}
+{"input": "extract price range: I am looking for products priced between INR 1999 and Rs. 8999", "output": "{\"min\": 1999, \"max\": 8999}"}
+{"input": "extract price range: durable microwave", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shirt on sale", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: chair with good battery life", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: chair that costs between 499 and 1.3k", "output": "{\"min\": 499, \"max\": 1299}"}
+{"input": "extract price range: phone above 1,499 only", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: ring priced from INR 299 and up", "output": "{\"min\": 299, \"max\": null}"}
+{"input": "extract price range: grey sony drone above 9,999", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: black nike refrigerator between 5999 and Rs. 9999", "output": "{\"min\": 5999, \"max\": 9999}"}
+{"input": "extract price range: find navy ring between 999 and ₹7999", "output": "{\"min\": 999, \"max\": 7999}"}
+{"input": "extract price range: laptop that costs more than 10000", "output": "{\"min\": 10000, \"max\": null}"}
+{"input": "extract price range: affordable sofa", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: green ring over 4k", "output": "{\"min\": 3999, \"max\": null}"}
+{"input": "extract price range: affordable earbuds", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bicycle for less than ₹25000", "output": "{\"min\": null, \"max\": 25000}"}
+{"input": "extract price range: comfortable chair", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: canon headphones at most 199", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: find green earbuds between 599 and 1499", "output": "{\"min\": 599, \"max\": 1499}"}
+{"input": "extract price range: keyboard between around 799 and 2.5k", "output": "{\"min\": 799, \"max\": 2499}"}
+{"input": "extract price range: speaker priced anywhere from around 499 to 6k", "output": "{\"min\": 499, \"max\": 5999}"}
+{"input": "extract price range: need sofa in 1499 to 5,999 range", "output": "{\"min\": 1499, \"max\": 5999}"}
+{"input": "extract price range: canon keyboard in 15k to ₹499 range", "output": "{\"min\": 499, \"max\": 15000}"}
+{"input": "extract price range: need bag above 9999 budget", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: phone with good battery life", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: minimum 7,999 for drone", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: ring, budget up to 25,000", "output": "{\"min\": null, \"max\": 25000}"}
+{"input": "extract price range: need good bag", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: watch, budget 8999 to around 9999", "output": "{\"min\": 8999, \"max\": 9999}"}
+{"input": "extract price range: bag that won't break the bank over 299", "output": "{\"min\": null, \"max\": 299}"}
+{"input": "extract price range: want sunglasses for under roughly 8999", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: microwave roughly around 799", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: show me camera between 5,999 and around 10000", "output": "{\"min\": 5999, \"max\": 10000}"}
+{"input": "extract price range: jacket that costs between 4999 and 20000", "output": "{\"min\": 4999, \"max\": 20000}"}
+{"input": "extract price range: refrigerator between 1.5k and Rs. 3499, brown preferred", "output": "{\"min\": 1499, \"max\": 3499}"}
+{"input": "extract price range: from 2999 to Rs 4999 for a sunglasses", "output": "{\"min\": 2999, \"max\": 4999}"}
+{"input": "extract price range: lg microwave minimum 1499", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: top rated phone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: high end sofa above 3999", "output": "{\"min\": 3999, \"max\": null}"}
+{"input": "extract price range: chair not under 599", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: refrigerator, budget 99 to 10,000", "output": "{\"min\": 99, \"max\": 10000}"}
+{"input": "extract price range: affordable chair not more than Rs. 299", "output": "{\"min\": null, \"max\": 299}"}
+{"input": "extract price range: tv that costs between INR 3499 and 10000", "output": "{\"min\": 3499, \"max\": 10000}"}
+{"input": "extract price range: earbuds recommendations", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: ring in the range of 999 to INR 8999", "output": "{\"min\": 999, \"max\": 8999}"}
+{"input": "extract price range: show me ring over 99", "output": "{\"min\": 99, \"max\": null}"}
+{"input": "extract price range: show me samsung watch", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: phone on sale", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: premium microwave over 50k", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: white phone under roughly 10000 please", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: show me shirt under 8k", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: laptop starting 7,999 and up", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: looking for tv below around 4999", "output": "{\"min\": null, \"max\": 4999}"}
+{"input": "extract price range: looking for bicycle above 50000", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: need monitor, nothing over 5999", "output": "{\"min\": null, \"max\": 5999}"}
+{"input": "extract price range: keyboard starting from 8k", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: anything good around 1299 ish", "output": "{\"min\": null, \"max\": 1299}"}
+{"input": "extract price range: want jacket costing more than 3999", "output": "{\"min\": 3999, \"max\": null}"}
+{"input": "extract price range: shirt that costs between 599 and 799", "output": "{\"min\": 599, \"max\": 799}"}
+{"input": "extract price range: microwave starting 199 and up", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: dell tv costing between 799 and 9999", "output": "{\"min\": 799, \"max\": 9999}"}
+{"input": "extract price range: budget watch not more than Rs 99", "output": "{\"min\": null, \"max\": 99}"}
+{"input": "extract price range: top rated monitor", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: anything cheap around 1499 ish", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: lg speaker in 299 to 3.5k range", "output": "{\"min\": 299, \"max\": 3499}"}
+{"input": "extract price range: monitor with good battery life", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: trending chair", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: backpack priced below 1.3k", "output": "{\"min\": null, \"max\": 1299}"}
+{"input": "extract price range: laptop max 20k", "output": "{\"min\": null, \"max\": 20000}"}
+{"input": "extract price range: tablet not under Rs 15000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: ring, budget up to 15000", "output": "{\"min\": null, \"max\": 15000}"}
+{"input": "extract price range: stylish brown sofa", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: need bicycle above 799 budget", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: lg tv minimum 3k", "output": "{\"min\": 2999, \"max\": null}"}
+{"input": "extract price range: red tablet over 8,999", "output": "{\"min\": 8999, \"max\": null}"}
+{"input": "extract price range: need monitor in 2.5k to 4,999 range", "output": "{\"min\": 2499, \"max\": 4999}"}
+{"input": "extract price range: speaker with price starting at 2999", "output": "{\"min\": 2999, \"max\": null}"}
+{"input": "extract price range: watch recommendations", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: headphones roughly around 499", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: sunglasses for gifting", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: decent blue laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: brown microwave under 299 please", "output": "{\"min\": null, \"max\": 299}"}
+{"input": "extract price range: dell watch under 8999", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: apple ring under 1299", "output": "{\"min\": null, \"max\": 1299}"}
+{"input": "extract price range: need bag above 25,000 budget", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: drone up to 1,499", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: I am looking for products priced between 99 and 999", "output": "{\"min\": 99, \"max\": 999}"}
+{"input": "extract price range: backpack above 20000", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: earbuds priced anywhere from 99 to 299", "output": "{\"min\": 99, \"max\": 299}"}
+{"input": "extract price range: monitor for gifting", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shirt within 499 and 2,499", "output": "{\"min\": 499, \"max\": 2499}"}
+{"input": "extract price range: tablet priced from 7999 and up", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: sony bicycle over 999", "output": "{\"min\": 999, \"max\": null}"}
+{"input": "extract price range: budget sofa", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: want bag for under 20k", "output": "{\"min\": null, \"max\": 20000}"}
+{"input": "extract price range: want speaker costing more than 199", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: show keyboard priced under 9k", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: find navy tablet between 3499 and 50000", "output": "{\"min\": 3499, \"max\": 50000}"}
+{"input": "extract price range: keyboard within a budget of around 1999", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: laptop starting from 20000", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: tablet starting from roughly 499", "output": "{\"min\": 499, \"max\": null}"}
+{"input": "extract price range: samsung bicycle in Rs 2499 to 20000 range", "output": "{\"min\": 2499, \"max\": 20000}"}
+{"input": "extract price range: watch priced below 1,999", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: good lg watch", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: I need a lg drone priced between 9k and 15k", "output": "{\"min\": 8999, \"max\": 15000}"}
+{"input": "extract price range: need phone above ₹499 budget", "output": "{\"min\": 499, \"max\": null}"}
+{"input": "extract price range: tv under 5,999", "output": "{\"min\": null, \"max\": 5999}"}
+{"input": "extract price range: from roughly 799 to 3499 for a speaker", "output": "{\"min\": 799, \"max\": 3499}"}
+{"input": "extract price range: need sunglasses in 1,999 to 4,999 range", "output": "{\"min\": 1999, \"max\": 4999}"}
+{"input": "extract price range: drone above 25000 only", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: backpack priced anywhere from ₹6999 to 10k", "output": "{\"min\": 6999, \"max\": 10000}"}
+{"input": "extract price range: refrigerator starting 8k and up", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: earbuds between 199 and 3.5k, green preferred", "output": "{\"min\": 199, \"max\": 3499}"}
+{"input": "extract price range: bag for gifting", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me tv between around 199 and Rs 7999", "output": "{\"min\": 199, \"max\": 7999}"}
+{"input": "extract price range: trending keyboard", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sofa up to Rs 2999", "output": "{\"min\": null, \"max\": 2999}"}
+{"input": "extract price range: want a earbuds somewhere between ₹1999 and 1.3k", "output": "{\"min\": 1299, \"max\": 1999}"}
+{"input": "extract price range: navy apple laptop above 8999", "output": "{\"min\": 8999, \"max\": null}"}
+{"input": "extract price range: need a earbuds no more than Rs. 10000", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: need speaker in 799 to 10000 range", "output": "{\"min\": 799, \"max\": 10000}"}
+{"input": "extract price range: laptop roughly around INR 499", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: bicycle roughly around 199", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: show shirt priced under 4999", "output": "{\"min\": null, \"max\": 4999}"}
+{"input": "extract price range: brown apple keyboard between INR 199 and 1.3k", "output": "{\"min\": 199, \"max\": 1299}"}
+{"input": "extract price range: earbuds within a budget of 3,499", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: apple bicycle under around 499", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: searching backpack between 1,499 and INR 1999 bucks", "output": "{\"min\": 1499, \"max\": 1999}"}
+{"input": "extract price range: shoes more than 799 preferred", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: monitor between 299 and 499", "output": "{\"min\": 299, \"max\": 499}"}
+{"input": "extract price range: quality ring not more than ₹1999", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: lightweight laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: drone, budget 3,499 to around 7999", "output": "{\"min\": 3499, \"max\": 7999}"}
+{"input": "extract price range: best phone for daily use", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me dell headphones", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: want bicycle costing more than 499", "output": "{\"min\": 499, \"max\": null}"}
+{"input": "extract price range: need laptop in 799 to 4999 range", "output": "{\"min\": 799, \"max\": 4999}"}
+{"input": "extract price range: need tv, nothing over 3.5k", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: cheap earbuds", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: black shirt for men", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shirt for women", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: new arrivals refrigerator", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me nike bicycle", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sunglasses starting from 7999", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: find black tv between 199 and 7999", "output": "{\"min\": 199, \"max\": 7999}"}
+{"input": "extract price range: show me shirt between 6,999 and roughly 10000", "output": "{\"min\": 6999, \"max\": 10000}"}
+{"input": "extract price range: microwave priced below 3999", "output": "{\"min\": null, \"max\": 3999}"}
+{"input": "extract price range: looking for navy laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: ring starting from 199", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: show me laptop over 4,999", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: need monitor more than 799", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: looking for keyboard above 9k", "output": "{\"min\": 8999, \"max\": null}"}
+{"input": "extract price range: I need a canon chair priced between 2,999 and roughly 10000", "output": "{\"min\": 2999, \"max\": 10000}"}
+{"input": "extract price range: show sofa priced under Rs. 3499", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: searching headphones between 50000 and 1.5k bucks", "output": "{\"min\": 1499, \"max\": 50000}"}
+{"input": "extract price range: searching bag between 499 and ₹1299 bucks", "output": "{\"min\": 499, \"max\": 1299}"}
+{"input": "extract price range: quality earbuds between 99 and 4999", "output": "{\"min\": 99, \"max\": 4999}"}
+{"input": "extract price range: red jacket priced from around 3999 to 8,999", "output": "{\"min\": 3999, \"max\": 8999}"}
+{"input": "extract price range: looking for microwave below 9k", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: cheap ring between 1999 and 9999", "output": "{\"min\": 1999, \"max\": 9999}"}
+{"input": "extract price range: backpack within a budget of Rs 9999", "output": "{\"min\": null, \"max\": 9999}"}
+{"input": "extract price range: affordable watch", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: tablet cheaper than 50k", "output": "{\"min\": null, \"max\": 50000}"}
+{"input": "extract price range: looking for phone above 15k", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: refrigerator with price starting at around 499", "output": "{\"min\": 499, \"max\": null}"}
+{"input": "extract price range: sunglasses up to 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: show tv priced under 10k", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: minimum 8999 for shirt", "output": "{\"min\": 8999, \"max\": null}"}
+{"input": "extract price range: need budget tv", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: drone, at least 3,999 range", "output": "{\"min\": 3999, \"max\": null}"}
+{"input": "extract price range: I need a dell chair priced between 1,299 and 799", "output": "{\"min\": 799, \"max\": 1299}"}
+{"input": "extract price range: comfortable tv", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bicycle not under 2499", "output": "{\"min\": 2499, \"max\": null}"}
+{"input": "extract price range: bicycle for women", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me bicycle under 7999", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: trending headphones", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: durable sofa", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: refrigerator above 6999", "output": "{\"min\": 6999, \"max\": null}"}
+{"input": "extract price range: find me refrigerator within 20k", "output": "{\"min\": null, \"max\": 20000}"}
+{"input": "extract price range: find brown tablet between INR 99 and 3499", "output": "{\"min\": 99, \"max\": 3499}"}
+{"input": "extract price range: show me apple bicycle", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: new arrivals backpack", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: lg sofa in black", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shirt with warranty", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: want a watch somewhere between 6999 and 10k", "output": "{\"min\": 6999, \"max\": 9999}"}
+{"input": "extract price range: premium tv over 2999", "output": "{\"min\": 2999, \"max\": null}"}
+{"input": "extract price range: budget for bag: 1299 to 2999", "output": "{\"min\": 1299, \"max\": 2999}"}
+{"input": "extract price range: camera under 799", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: need budget earbuds", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: tablet with good battery life", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: grey earbuds for men", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: want a shirt somewhere between 199 and 9k", "output": "{\"min\": 199, \"max\": 8999}"}
+{"input": "extract price range: headphones within a budget of Rs 499", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: drone within 5999 and 9999", "output": "{\"min\": 5999, \"max\": 9999}"}
+{"input": "extract price range: ring recommendations", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: tv costing at least Rs 7999", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: searching sofa between 1999 and 25,000 bucks", "output": "{\"min\": 1999, \"max\": 25000}"}
+{"input": "extract price range: backpack with price starting at 25k", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: from 1,299 to around 1999 for a ring", "output": "{\"min\": 1299, \"max\": 1999}"}
+{"input": "extract price range: tv starting 799 and up", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: want sofa costing more than 15000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: chair in the range of 299 to 7k", "output": "{\"min\": 299, \"max\": 6999}"}
+{"input": "extract price range: shoes above 7999 only", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: backpack for women", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: camera, at least 50k range", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: shirt recommendations", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: good nike bag", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bose drone under 2499", "output": "{\"min\": null, \"max\": 2499}"}
+{"input": "extract price range: microwave within Rs. 299 and ₹50000", "output": "{\"min\": 299, \"max\": 50000}"}
+{"input": "extract price range: affordable grey tv", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: headphones in the range of ₹1999 to 20000", "output": "{\"min\": 1999, \"max\": 20000}"}
+{"input": "extract price range: lightweight shoes", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: best drone for daily use", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sofa priced above 7,999", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: want tv costing more than 999", "output": "{\"min\": 999, \"max\": null}"}
+{"input": "extract price range: laptop starting 499 and up", "output": "{\"min\": 499, \"max\": null}"}
+{"input": "extract price range: trending bicycle", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me ring between 799 and roughly 50000", "output": "{\"min\": 799, \"max\": 50000}"}
+{"input": "extract price range: monitor max roughly 9999", "output": "{\"min\": null, \"max\": 9999}"}
+{"input": "extract price range: looking for navy bag", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: comfortable sofa", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: laptop somewhere in 1999 to 999", "output": "{\"min\": 999, \"max\": 1999}"}
+{"input": "extract price range: top rated drone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me apple tablet", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: dell bag reviews", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: tablet priced below 6999", "output": "{\"min\": null, \"max\": 6999}"}
+{"input": "extract price range: monitor starting from 25k", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: searching backpack between 9999 and Rs. 15000 bucks", "output": "{\"min\": 9999, \"max\": 15000}"}
+{"input": "extract price range: budget for laptop: 3,499 to 5999", "output": "{\"min\": 3499, \"max\": 5999}"}
+{"input": "extract price range: tablet priced above Rs. 999", "output": "{\"min\": 999, \"max\": null}"}
+{"input": "extract price range: sony backpack in brown", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: affordable drone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sony camera minimum 8999", "output": "{\"min\": 8999, \"max\": null}"}
+{"input": "extract price range: I am looking for products priced between 999 and 20,000", "output": "{\"min\": 999, \"max\": 20000}"}
+{"input": "extract price range: nike microwave under 1299", "output": "{\"min\": null, \"max\": 1299}"}
+{"input": "extract price range: high end watch above 15,000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: budget bose refrigerator", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: microwave between ₹5999 and 8k, white preferred", "output": "{\"min\": 5999, \"max\": 7999}"}
+{"input": "extract price range: stylish black sunglasses", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: stylish brown speaker", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me nike microwave", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: dell sunglasses over 6k", "output": "{\"min\": 5999, \"max\": null}"}
+{"input": "extract price range: premium chair over 5k", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: want tv for under INR 199", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: speaker not under 2999", "output": "{\"min\": 2999, \"max\": null}"}
+{"input": "extract price range: tv recommendations", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bicycle that costs between 2.5k and 15k", "output": "{\"min\": 2499, \"max\": 15000}"}
+{"input": "extract price range: show tablet priced under 7,999", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: bag, at least 10,000 range", "output": "{\"min\": 10000, \"max\": null}"}
+{"input": "extract price range: keyboard within a budget of 15k", "output": "{\"min\": null, \"max\": 15000}"}
+{"input": "extract price range: find me bicycle within 7999", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: sumthing under 2,499 plz", "output": "{\"min\": null, \"max\": 2499}"}
+{"input": "extract price range: bag with good battery life", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: camera, budget up to 50000", "output": "{\"min\": null, \"max\": 50000}"}
+{"input": "extract price range: top rated bag", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: budget blue microwave", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: best tablet for daily use", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: comfortable phone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: white backpack under 2,499 please", "output": "{\"min\": null, \"max\": 2499}"}
+{"input": "extract price range: green tablet less than Rs. 1999", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: backpack at least 199", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: cheap chair", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: stylish brown bicycle", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bicycle, at least 20000 range", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: microwave recommendations", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: backpack starting Rs 10000 and up", "output": "{\"min\": 10000, \"max\": null}"}
+{"input": "extract price range: affordable laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sumthing under 15000 plz", "output": "{\"min\": null, \"max\": 15000}"}
+{"input": "extract price range: want a headphones somewhere between 2999 and 99", "output": "{\"min\": 99, \"max\": 2999}"}
+{"input": "extract price range: find me sofa within roughly 6999", "output": "{\"min\": null, \"max\": 6999}"}
+{"input": "extract price range: phone up to 499", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: minimum 199 for ring", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: sofa costing at least ₹25000", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: need backpack, nothing over 20000", "output": "{\"min\": null, \"max\": 20000}"}
+{"input": "extract price range: lightweight drone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: high end bag above around 6999", "output": "{\"min\": 6999, \"max\": null}"}
+{"input": "extract price range: backpack with warranty", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: looking for speaker above 2499", "output": "{\"min\": 2499, \"max\": null}"}
+{"input": "extract price range: blue jacket priced from 199 to 2999", "output": "{\"min\": 199, \"max\": 2999}"}
+{"input": "extract price range: backpack somewhere in 5k to 2k", "output": "{\"min\": 1999, \"max\": 4999}"}
+{"input": "extract price range: phone roughly around 9999", "output": "{\"min\": null, \"max\": 9999}"}
+{"input": "extract price range: bose watch minimum 1499", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: affordable grey sofa", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: tablet priced 299-1,299", "output": "{\"min\": 299, \"max\": 1299}"}
+{"input": "extract price range: lg keyboard in black", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: lightweight tv", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sony shoes over INR 6999", "output": "{\"min\": 6999, \"max\": null}"}
+{"input": "extract price range: searching sofa between 599 and 799 bucks", "output": "{\"min\": 599, \"max\": 799}"}
+{"input": "extract price range: need laptop, nothing over 599", "output": "{\"min\": null, \"max\": 599}"}
+{"input": "extract price range: need decent chair", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: drone in the range of 199 to 9,999", "output": "{\"min\": 199, \"max\": 9999}"}
+{"input": "extract price range: want jacket costing more than 299", "output": "{\"min\": 299, \"max\": null}"}
+{"input": "extract price range: samsung refrigerator under 299", "output": "{\"min\": null, \"max\": 299}"}
+{"input": "extract price range: speaker on sale", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sunglasses above 9k only", "output": "{\"min\": 8999, \"max\": null}"}
+{"input": "extract price range: chair under 1999", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: watch with good battery life", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: canon chair under Rs 2499", "output": "{\"min\": null, \"max\": 2499}"}
+{"input": "extract price range: watch in the range of ₹3999 to 7k", "output": "{\"min\": 3999, \"max\": 6999}"}
+{"input": "extract price range: I need a samsung keyboard priced between 3499 and 10k", "output": "{\"min\": 3499, \"max\": 9999}"}
+{"input": "extract price range: microwave between 8999 and Rs 15000", "output": "{\"min\": 8999, \"max\": 15000}"}
+{"input": "extract price range: brown headphones for men", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: backpack for gifting", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: microwave within ₹499 and 3999", "output": "{\"min\": 499, \"max\": 3999}"}
+{"input": "extract price range: grey bose chair above 20k", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: bicycle between 7,999 and 9999", "output": "{\"min\": 7999, \"max\": 9999}"}
+{"input": "extract price range: speaker somewhere in 3499 to 10k", "output": "{\"min\": 3499, \"max\": 9999}"}
+{"input": "extract price range: show me sofa under 3999", "output": "{\"min\": null, \"max\": 3999}"}
+{"input": "extract price range: high end sofa above Rs 199", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: sony microwave at most 199", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: phone priced below Rs. 3499", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: show me backpack between 599 and 7,999", "output": "{\"min\": 599, \"max\": 7999}"}
+{"input": "extract price range: shirt cheaper than 2,999", "output": "{\"min\": null, \"max\": 2999}"}
+{"input": "extract price range: need phone, nothing over 3499", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: need headphones more than 1499", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: show sofa priced under 7999", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: blue sofa over INR 599", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: cheap sunglasses not more than 50000", "output": "{\"min\": null, \"max\": 50000}"}
+{"input": "extract price range: tv, at least 1299 range", "output": "{\"min\": 1299, \"max\": null}"}
+{"input": "extract price range: bicycle on sale", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: new arrivals camera", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: find me ring within 2.5k", "output": "{\"min\": null, \"max\": 2499}"}
+{"input": "extract price range: need a backpack no more than 499", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: cheap bicycle", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: earbuds, budget up to Rs 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: need sofa, nothing over 4999", "output": "{\"min\": null, \"max\": 4999}"}
+{"input": "extract price range: need sofa more than 20k", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: monitor, at least Rs 1499 range", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: need a camera no more than 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: jacket at least 3999", "output": "{\"min\": 3999, \"max\": null}"}
+{"input": "extract price range: show me ring over around 15000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: sony tv over 2999", "output": "{\"min\": 2999, \"max\": null}"}
+{"input": "extract price range: show me bose laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: canon keyboard at most Rs. 3499", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: earbuds more than 25k preferred", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: bag max 25k", "output": "{\"min\": null, \"max\": 25000}"}
+{"input": "extract price range: bag priced above 5999", "output": "{\"min\": 5999, \"max\": null}"}
+{"input": "extract price range: microwave at least 7999", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: ring for less than 4k", "output": "{\"min\": null, \"max\": 3999}"}
+{"input": "extract price range: bicycle with warranty", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bose ring reviews", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: need headphones more than 25000", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: find me earbuds within 50000", "output": "{\"min\": null, \"max\": 50000}"}
+{"input": "extract price range: drone that won't break the bank over 1499", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: shirt roughly 2499 to INR 3499", "output": "{\"min\": 2499, \"max\": 3499}"}
+{"input": "extract price range: tablet in the range of 499 to 4999", "output": "{\"min\": 499, \"max\": 4999}"}
+{"input": "extract price range: shirt, at least 4999 range", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: speaker that costs more than 1,999", "output": "{\"min\": 1999, \"max\": null}"}
+{"input": "extract price range: I am looking for products priced between 299 and Rs 799", "output": "{\"min\": 299, \"max\": 799}"}
+{"input": "extract price range: cheap backpack", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: need tablet above 20000 budget", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: need speaker in 99 to 1299 range", "output": "{\"min\": 99, \"max\": 1299}"}
+{"input": "extract price range: want earbuds costing more than 99", "output": "{\"min\": 99, \"max\": null}"}
+{"input": "extract price range: samsung jacket reviews", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: watch for women", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: camera costing at least 9999", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: microwave costing at least 199", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: new arrivals jacket", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: laptop priced 299-1,299", "output": "{\"min\": 299, \"max\": 1299}"}
+{"input": "extract price range: show me phone under 3999", "output": "{\"min\": null, \"max\": 3999}"}
+{"input": "extract price range: shirt for less than 10000", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: bose earbuds in 2k to 9999 range", "output": "{\"min\": 1999, \"max\": 9999}"}
+{"input": "extract price range: monitor cheaper than 2999", "output": "{\"min\": null, \"max\": 2999}"}
+{"input": "extract price range: headphones up to 10000", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: dell shirt reviews", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: cheap jacket", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me shoes over around 499", "output": "{\"min\": 499, \"max\": null}"}
+{"input": "extract price range: show me watch between Rs. 3999 and 15,000", "output": "{\"min\": 3999, \"max\": 15000}"}
+{"input": "extract price range: shoes under 2,999", "output": "{\"min\": null, \"max\": 2999}"}
+{"input": "extract price range: new arrivals monitor", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: comfortable camera", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bicycle priced 599-10k", "output": "{\"min\": 599, \"max\": 10000}"}
+{"input": "extract price range: I am looking for products priced between Rs 5999 and 25k", "output": "{\"min\": 5999, \"max\": 25000}"}
+{"input": "extract price range: microwave that costs more than 20,000", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: looking for sunglasses below 799", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: monitor not exceeding 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: canon bag costing between 2999 and 7999", "output": "{\"min\": 2999, \"max\": 7999}"}
+{"input": "extract price range: new arrivals laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sunglasses not exceeding 7999", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: budget for drone: 10k to roughly 25000", "output": "{\"min\": 10000, \"max\": 25000}"}
+{"input": "extract price range: headphones 1499 to 3,499", "output": "{\"min\": 1499, \"max\": 3499}"}
+{"input": "extract price range: stylish brown shirt", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: earbuds up to 799", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: good camera not more than Rs. 3999", "output": "{\"min\": null, \"max\": 3999}"}
+{"input": "extract price range: bose drone over 8,999", "output": "{\"min\": 8999, \"max\": null}"}
+{"input": "extract price range: watch on sale", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: brown nike tv above 5999", "output": "{\"min\": 5999, \"max\": null}"}
+{"input": "extract price range: good headphones between 3.5k and 20000", "output": "{\"min\": 3499, \"max\": 20000}"}
+{"input": "extract price range: canon laptop in around 3999 to INR 4999 range", "output": "{\"min\": 3999, \"max\": 4999}"}
+{"input": "extract price range: affordable phone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: earbuds between ₹2499 and 20000, green preferred", "output": "{\"min\": 2499, \"max\": 20000}"}
+{"input": "extract price range: sofa between 1999 and roughly 25000", "output": "{\"min\": 1999, \"max\": 25000}"}
+{"input": "extract price range: show me phone over 1,999", "output": "{\"min\": 1999, \"max\": null}"}
+{"input": "extract price range: shoes costing at least 1999", "output": "{\"min\": 1999, \"max\": null}"}
+{"input": "extract price range: comfortable speaker", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: laptop that costs between INR 799 and 2.5k", "output": "{\"min\": 799, \"max\": 2499}"}
+{"input": "extract price range: camera that costs more than ₹1499", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: premium bicycle over 2.5k", "output": "{\"min\": 2499, \"max\": null}"}
+{"input": "extract price range: high end backpack above 10k", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: find brown speaker between ₹599 and 3k", "output": "{\"min\": 599, \"max\": 2999}"}
+{"input": "extract price range: budget for chair: 3499 to 6999", "output": "{\"min\": 3499, \"max\": 6999}"}
+{"input": "extract price range: want keyboard for under 9999", "output": "{\"min\": null, \"max\": 9999}"}
+{"input": "extract price range: premium tv over 15,000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: drone with price starting at 15,000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: bicycle with price starting at 2.5k", "output": "{\"min\": 2499, \"max\": null}"}
+{"input": "extract price range: ring up to INR 1999", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: drone not exceeding 799", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: need refrigerator more than 599", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: earbuds priced anywhere from 2k to 1499", "output": "{\"min\": 1499, \"max\": 1999}"}
+{"input": "extract price range: high end shoes above 9,999", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: bag for women", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: premium headphones over INR 3499", "output": "{\"min\": 3499, \"max\": null}"}
+{"input": "extract price range: green canon bag above 1299", "output": "{\"min\": 1299, \"max\": null}"}
+{"input": "extract price range: drone between 50k and 799", "output": "{\"min\": 799, \"max\": 50000}"}
+{"input": "extract price range: phone somewhere in 8,999 to 999", "output": "{\"min\": 999, \"max\": 8999}"}
+{"input": "extract price range: want a phone somewhere between 6999 and 3499", "output": "{\"min\": 3499, \"max\": 6999}"}
+{"input": "extract price range: drone that won't break the bank over roughly 99", "output": "{\"min\": null, \"max\": 99}"}
+{"input": "extract price range: want speaker for under 10k", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: looking for bag above 50000", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: speaker between 2.5k and 3499, navy preferred", "output": "{\"min\": 2499, \"max\": 3499}"}
+{"input": "extract price range: sunglasses that won't break the bank over 5999", "output": "{\"min\": null, \"max\": 5999}"}
+{"input": "extract price range: budget monitor not more than 1,299", "output": "{\"min\": null, \"max\": 1299}"}
+{"input": "extract price range: camera not exceeding roughly 599", "output": "{\"min\": null, \"max\": 599}"}
+{"input": "extract price range: from 2499 to INR 9999 for a shirt", "output": "{\"min\": 2499, \"max\": 9999}"}
+{"input": "extract price range: jacket priced above 199", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: I am looking for products priced between around 299 and 1,299", "output": "{\"min\": 299, \"max\": 1299}"}
+{"input": "extract price range: durable sunglasses", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: jacket between 199 and 2,499, navy preferred", "output": "{\"min\": 199, \"max\": 2499}"}
+{"input": "extract price range: need a tablet no more than ₹999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: sunglasses starting from 50k", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: backpack not exceeding Rs 8999", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: need laptop more than 599", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: microwave that won't break the bank over 20k", "output": "{\"min\": null, \"max\": 20000}"}
+{"input": "extract price range: top rated ring", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sofa max 99", "output": "{\"min\": null, \"max\": 99}"}
+{"input": "extract price range: laptop not exceeding 7,999", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: speaker up to 3999", "output": "{\"min\": null, \"max\": 3999}"}
+{"input": "extract price range: canon microwave minimum 3999", "output": "{\"min\": 3999, \"max\": null}"}
+{"input": "extract price range: backpack roughly around 5k", "output": "{\"min\": null, \"max\": 4999}"}
+{"input": "extract price range: lg bicycle over 99", "output": "{\"min\": 99, \"max\": null}"}
+{"input": "extract price range: cheap keyboard not more than 499", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: comfortable laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: apple shirt at most Rs. 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: earbuds for women", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: looking for a jacket from 799 to roughly 50000", "output": "{\"min\": 799, \"max\": 50000}"}
+{"input": "extract price range: cheap watch", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: earbuds above 599 only", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: bose camera costing between 199 and 3999", "output": "{\"min\": 199, \"max\": 3999}"}
+{"input": "extract price range: searching phone between 5999 and 10,000 bucks", "output": "{\"min\": 5999, \"max\": 10000}"}
+{"input": "extract price range: looking for red chair", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: anything budget around 99 ish", "output": "{\"min\": null, \"max\": 99}"}
+{"input": "extract price range: tablet not exceeding around 3499", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: good jacket between 3,499 and 20000", "output": "{\"min\": 3499, \"max\": 20000}"}
+{"input": "extract price range: need chair, nothing over Rs 5999", "output": "{\"min\": null, \"max\": 5999}"}
+{"input": "extract price range: decent drone not more than 20000", "output": "{\"min\": null, \"max\": 20000}"}
+{"input": "extract price range: cheap laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sunglasses costing at least 799", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: sofa 7999 to 25000", "output": "{\"min\": 7999, \"max\": 25000}"}
+{"input": "extract price range: red bose speaker above 3.5k", "output": "{\"min\": 3499, \"max\": null}"}
+{"input": "extract price range: jacket not under 599", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: samsung camera under 799", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: tv that costs more than 3k", "output": "{\"min\": 2999, \"max\": null}"}
+{"input": "extract price range: camera that won't break the bank over 20,000", "output": "{\"min\": null, \"max\": 20000}"}
+{"input": "extract price range: backpack within 1.3k and 4999", "output": "{\"min\": 1299, \"max\": 4999}"}
+{"input": "extract price range: bicycle priced below ₹4999", "output": "{\"min\": null, \"max\": 4999}"}
+{"input": "extract price range: backpack that costs more than 20,000", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: shirt priced above 10,000", "output": "{\"min\": 10000, \"max\": null}"}
+{"input": "extract price range: bose headphones at most 2.5k", "output": "{\"min\": null, \"max\": 2499}"}
+{"input": "extract price range: need decent drone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: find white camera between INR 2499 and 4999", "output": "{\"min\": 2499, \"max\": 4999}"}
+{"input": "extract price range: looking for shoes above INR 1299", "output": "{\"min\": 1299, \"max\": null}"}
+{"input": "extract price range: find grey sofa between 3,999 and INR 50000", "output": "{\"min\": 3999, \"max\": 50000}"}
+{"input": "extract price range: white tablet for men", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: looking for laptop below 9999", "output": "{\"min\": null, \"max\": 9999}"}
+{"input": "extract price range: nike monitor minimum 499", "output": "{\"min\": 499, \"max\": null}"}
+{"input": "extract price range: white shoes under ₹3499 please", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: bag somewhere in 8k to 999", "output": "{\"min\": 999, \"max\": 7999}"}
+{"input": "extract price range: trending speaker", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: grey drone over 7k", "output": "{\"min\": 6999, \"max\": null}"}
+{"input": "extract price range: tablet for less than 99", "output": "{\"min\": null, \"max\": 99}"}
+{"input": "extract price range: premium shirt not more than 2499", "output": "{\"min\": null, \"max\": 2499}"}
+{"input": "extract price range: bag above 6,999 only", "output": "{\"min\": 6999, \"max\": null}"}
+{"input": "extract price range: monitor priced from 299 and up", "output": "{\"min\": 299, \"max\": null}"}
+{"input": "extract price range: find me sofa within around 299", "output": "{\"min\": null, \"max\": 299}"}
+{"input": "extract price range: drone on sale", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: camera priced INR 199-around 2999", "output": "{\"min\": 199, \"max\": 2999}"}
+{"input": "extract price range: grey headphones under 50000 please", "output": "{\"min\": null, \"max\": 50000}"}
+{"input": "extract price range: backpack at least 50,000", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: need shoes in 299 to 2,499 range", "output": "{\"min\": 299, \"max\": 2499}"}
+{"input": "extract price range: watch priced Rs. 7999-3k", "output": "{\"min\": 2999, \"max\": 7999}"}
+{"input": "extract price range: navy drone less than 1499", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: looking for a tablet from 999 to 9999", "output": "{\"min\": 999, \"max\": 9999}"}
+{"input": "extract price range: sumthing under 9k plz", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: need good headphones", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: camera, budget 499 to 25000", "output": "{\"min\": 499, \"max\": 25000}"}
+{"input": "extract price range: want bag costing more than 50000", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: black bose bicycle between roughly 599 and 1.3k", "output": "{\"min\": 599, \"max\": 1299}"}
+{"input": "extract price range: navy speaker less than 199", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: show me bag under 6999", "output": "{\"min\": null, \"max\": 6999}"}
+{"input": "extract price range: keyboard at least 799", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: budget phone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: lg watch in blue", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: looking for white monitor", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shoes under 499", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: camera with price starting at INR 999", "output": "{\"min\": 999, \"max\": null}"}
+{"input": "extract price range: headphones priced anywhere from 9999 to 10k", "output": "{\"min\": 9999, \"max\": 10000}"}
+{"input": "extract price range: find me keyboard within 1,299", "output": "{\"min\": null, \"max\": 1299}"}
+{"input": "extract price range: keyboard under 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: need tv more than 199", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: black canon tablet above around 799", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: find me bag within around 1999", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: drone with good battery life", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: new arrivals speaker", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: white speaker priced from 6999 to 7,999", "output": "{\"min\": 6999, \"max\": 7999}"}
+{"input": "extract price range: top rated microwave", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: nike watch costing between 3499 and 1,299", "output": "{\"min\": 1299, \"max\": 3499}"}
+{"input": "extract price range: shoes priced anywhere from 9,999 to 7999", "output": "{\"min\": 7999, \"max\": 9999}"}
+{"input": "extract price range: sumthing under 3.5k plz", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: tablet roughly around 10000", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: monitor max Rs 25000", "output": "{\"min\": null, \"max\": 25000}"}
+{"input": "extract price range: camera up to around 5999", "output": "{\"min\": null, \"max\": 5999}"}
+{"input": "extract price range: camera above 1.5k", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: minimum 25000 for phone", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: green headphones under 3.5k please", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: want camera for under 599", "output": "{\"min\": null, \"max\": 599}"}
+{"input": "extract price range: budget for ring: 3.5k to 1299", "output": "{\"min\": 1299, \"max\": 3499}"}
+{"input": "extract price range: laptop, at least ₹1499 range", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: nike refrigerator in INR 299 to 20k range", "output": "{\"min\": 299, \"max\": 20000}"}
+{"input": "extract price range: grey tv over 4999", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: good brown jacket", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: anything quality around 50,000 ish", "output": "{\"min\": null, \"max\": 50000}"}
+{"input": "extract price range: speaker priced above 199", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: need headphones more than INR 4999", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: cheap drone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: navy drone over 25000", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: samsung speaker over 9999", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: shoes for women", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: premium laptop not more than roughly 799", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: anything quality around 499 ish", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: best chair for daily use", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shoes not under 4,999", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: refrigerator for gifting", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: need phone above Rs 2499 budget", "output": "{\"min\": 2499, \"max\": null}"}
+{"input": "extract price range: budget for microwave: 6,999 to 50k", "output": "{\"min\": 6999, \"max\": 50000}"}
+{"input": "extract price range: lightweight ring", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: microwave on sale", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: headphones priced 299-3k", "output": "{\"min\": 299, \"max\": 2999}"}
+{"input": "extract price range: samsung phone in red", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: chair priced anywhere from 799 to Rs 25000", "output": "{\"min\": 799, \"max\": 25000}"}
+{"input": "extract price range: sofa, budget up to 299", "output": "{\"min\": null, \"max\": 299}"}
+{"input": "extract price range: bicycle roughly around 1499", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: show jacket priced under 9k", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: want headphones for under 4,999", "output": "{\"min\": null, \"max\": 4999}"}
+{"input": "extract price range: sony watch under 10k", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: sunglasses not exceeding around 8999", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: looking for navy ring", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: brown tablet under 199 please", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: jacket that costs between 1.3k and 2999", "output": "{\"min\": 1299, \"max\": 2999}"}
+{"input": "extract price range: searching backpack between Rs 1499 and 6,999 bucks", "output": "{\"min\": 1499, \"max\": 6999}"}
+{"input": "extract price range: chair costing at least 99", "output": "{\"min\": 99, \"max\": null}"}
+{"input": "extract price range: monitor priced above roughly 499", "output": "{\"min\": 499, \"max\": null}"}
+{"input": "extract price range: phone, budget up to 1499", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: show me camera over 10000", "output": "{\"min\": 10000, \"max\": null}"}
+{"input": "extract price range: camera max 5999", "output": "{\"min\": null, \"max\": 5999}"}
+{"input": "extract price range: need good speaker", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bose jacket over 4999", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: cheap refrigerator", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shoes for less than 1,999", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: bicycle, budget 3,999 to 4999", "output": "{\"min\": 3999, \"max\": 4999}"}
+{"input": "extract price range: durable ring", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: earbuds at least ₹3999", "output": "{\"min\": 3999, \"max\": null}"}
+{"input": "extract price range: budget keyboard", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: jacket with warranty", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: budget shoes", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shirt above 1.5k", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: chair costing at least ₹799", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: lg keyboard at most ₹20000", "output": "{\"min\": null, \"max\": 20000}"}
+{"input": "extract price range: looking for a tablet from 1999 to 10k", "output": "{\"min\": 1999, \"max\": 10000}"}
+{"input": "extract price range: anything budget around 2k ish", "output": "{\"min\": null, \"max\": 1999}"}
+{"input": "extract price range: drone that costs more than roughly 1299", "output": "{\"min\": 1299, \"max\": null}"}
+{"input": "extract price range: need a phone no more than ₹25000", "output": "{\"min\": null, \"max\": 25000}"}
+{"input": "extract price range: dell shirt minimum 599", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: laptop between 799 and 6,999, blue preferred", "output": "{\"min\": 799, \"max\": 6999}"}
+{"input": "extract price range: shirt with price starting at 4999", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: jacket with good battery life", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: best sunglasses for daily use", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: top rated camera", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: budget for speaker: around 599 to 3499", "output": "{\"min\": 599, \"max\": 3499}"}
+{"input": "extract price range: bag that costs between 2999 and 25000", "output": "{\"min\": 2999, \"max\": 25000}"}
+{"input": "extract price range: sony tv reviews", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: find blue speaker between 299 and around 3499", "output": "{\"min\": 299, \"max\": 3499}"}
+{"input": "extract price range: want watch costing more than 799", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: phone above 599", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: laptop cheaper than Rs. 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: sony sofa reviews", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: looking for navy bicycle", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: black bag less than 5999", "output": "{\"min\": null, \"max\": 5999}"}
+{"input": "extract price range: good ring between Rs 4999 and 10k", "output": "{\"min\": 4999, \"max\": 9999}"}
+{"input": "extract price range: show me canon shirt", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: tv priced from 2.5k and up", "output": "{\"min\": 2499, \"max\": null}"}
+{"input": "extract price range: bose microwave reviews", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me shirt under 2999", "output": "{\"min\": null, \"max\": 2999}"}
+{"input": "extract price range: shoes priced above 4999", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: microwave priced from 2499 and up", "output": "{\"min\": 2499, \"max\": null}"}
+{"input": "extract price range: drone above 20000", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: samsung jacket in red", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: microwave within a budget of 6k", "output": "{\"min\": null, \"max\": 5999}"}
+{"input": "extract price range: chair priced above 299", "output": "{\"min\": 299, \"max\": null}"}
+{"input": "extract price range: decent grey ring", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: quality samsung refrigerator", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: need affordable keyboard", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: ring, budget up to roughly 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: bose earbuds minimum 15000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: stylish white camera", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: looking for a drone from 99 to 1.5k", "output": "{\"min\": 99, \"max\": 1499}"}
+{"input": "extract price range: watch in the range of 1299 to 2999", "output": "{\"min\": 1299, \"max\": 2999}"}
+{"input": "extract price range: looking for microwave below INR 1499", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: high end monitor above INR 15000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: good headphones between 1999 and 5999", "output": "{\"min\": 1999, \"max\": 5999}"}
+{"input": "extract price range: looking for phone below roughly 50000", "output": "{\"min\": null, \"max\": 50000}"}
+{"input": "extract price range: shoes Rs. 199 to 8,999", "output": "{\"min\": 199, \"max\": 8999}"}
+{"input": "extract price range: bag cheaper than 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: backpack, budget 99 to 999", "output": "{\"min\": 99, \"max\": 999}"}
+{"input": "extract price range: shirt 3999 to 6,999", "output": "{\"min\": 3999, \"max\": 6999}"}
+{"input": "extract price range: refrigerator for women", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: need headphones above INR 5999 budget", "output": "{\"min\": 5999, \"max\": null}"}
+{"input": "extract price range: headphones not under 499", "output": "{\"min\": 499, \"max\": null}"}
+{"input": "extract price range: tablet for less than 3.5k", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: monitor max 25,000", "output": "{\"min\": null, \"max\": 25000}"}
+{"input": "extract price range: refrigerator 999 to 50,000", "output": "{\"min\": 999, \"max\": 50000}"}
+{"input": "extract price range: lightweight earbuds", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shirt somewhere in INR 299 to 7999", "output": "{\"min\": 299, \"max\": 7999}"}
+{"input": "extract price range: camera more than 199 preferred", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: premium bicycle over 7999", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: shoes with warranty", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: blue earbuds less than 2.5k", "output": "{\"min\": null, \"max\": 2499}"}
+{"input": "extract price range: show tv priced under 799", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: sofa 3499 to 7,999", "output": "{\"min\": 3499, \"max\": 7999}"}
+{"input": "extract price range: minimum 2999 for backpack", "output": "{\"min\": 2999, \"max\": null}"}
+{"input": "extract price range: need laptop more than 799", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: jacket starting 9999 and up", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: quality green camera", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: chair within 20000 and 50000", "output": "{\"min\": 20000, \"max\": 50000}"}
+{"input": "extract price range: sumthing under Rs 5999 plz", "output": "{\"min\": null, \"max\": 5999}"}
+{"input": "extract price range: premium shoes over 299", "output": "{\"min\": 299, \"max\": null}"}
+{"input": "extract price range: jacket within a budget of 199", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: want a sofa somewhere between 7k and 10k", "output": "{\"min\": 6999, \"max\": 10000}"}
+{"input": "extract price range: grey sofa priced from 2999 to 3499", "output": "{\"min\": 2999, \"max\": 3499}"}
+{"input": "extract price range: bicycle, budget up to 3,499", "output": "{\"min\": null, \"max\": 3499}"}
+{"input": "extract price range: keyboard that won't break the bank over 6999", "output": "{\"min\": null, \"max\": 6999}"}
+{"input": "extract price range: good lg jacket", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: nike earbuds over Rs 15000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: I need a samsung headphones priced between Rs 8999 and around 10000", "output": "{\"min\": 8999, \"max\": 10000}"}
+{"input": "extract price range: dell chair at most 25k", "output": "{\"min\": null, \"max\": 25000}"}
+{"input": "extract price range: backpack at least 1999", "output": "{\"min\": 1999, \"max\": null}"}
+{"input": "extract price range: good nike phone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: monitor recommendations", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bag above 299 only", "output": "{\"min\": 299, \"max\": null}"}
+{"input": "extract price range: camera priced below 1.5k", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: phone max 1299", "output": "{\"min\": null, \"max\": 1299}"}
+{"input": "extract price range: chair under around 2499", "output": "{\"min\": null, \"max\": 2499}"}
+{"input": "extract price range: samsung sunglasses in roughly 199 to 4,999 range", "output": "{\"min\": 199, \"max\": 4999}"}
+{"input": "extract price range: bag starting from roughly 99", "output": "{\"min\": 99, \"max\": null}"}
+{"input": "extract price range: want watch for under ₹8999", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: looking for a microwave from 499 to 1.3k", "output": "{\"min\": 499, \"max\": 1299}"}
+{"input": "extract price range: headphones 199 to Rs 5999", "output": "{\"min\": 199, \"max\": 5999}"}
+{"input": "extract price range: shoes costing at least 25000", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: premium refrigerator over 10000", "output": "{\"min\": 10000, \"max\": null}"}
+{"input": "extract price range: show shoes priced under ₹299", "output": "{\"min\": null, \"max\": 299}"}
+{"input": "extract price range: jacket more than INR 99 preferred", "output": "{\"min\": 99, \"max\": null}"}
+{"input": "extract price range: premium lg bag", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: grey chair over INR 3499", "output": "{\"min\": 3499, \"max\": null}"}
+{"input": "extract price range: bag, budget 6999 to Rs. 999", "output": "{\"min\": 999, \"max\": 6999}"}
+{"input": "extract price range: show me backpack over 3,999", "output": "{\"min\": 3999, \"max\": null}"}
+{"input": "extract price range: tablet priced anywhere from 1,499 to 4999", "output": "{\"min\": 1499, \"max\": 4999}"}
+{"input": "extract price range: monitor for less than Rs 15000", "output": "{\"min\": null, \"max\": 15000}"}
+{"input": "extract price range: speaker for women", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: anything budget around 799 ish", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: I need a dell shoes priced between 2k and 20,000", "output": "{\"min\": 1999, \"max\": 20000}"}
+{"input": "extract price range: bose jacket at most 7999", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: samsung chair costing between 2k and 2499", "output": "{\"min\": 1999, \"max\": 2499}"}
+{"input": "extract price range: stylish white bag", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: red earbuds for men", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: anything decent around 999 ish", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: show me monitor under 15k", "output": "{\"min\": null, \"max\": 15000}"}
+{"input": "extract price range: backpack priced below Rs. 25000", "output": "{\"min\": null, \"max\": 25000}"}
+{"input": "extract price range: dell laptop in INR 1999 to INR 2999 range", "output": "{\"min\": 1999, \"max\": 2999}"}
+{"input": "extract price range: shoes, budget 1999 to 20000", "output": "{\"min\": 1999, \"max\": 20000}"}
+{"input": "extract price range: monitor above 8k only", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: sumthing under 1499 plz", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: durable tv", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: looking for monitor above 50000", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: best refrigerator for daily use", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: blue refrigerator less than around 1499", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: sumthing under 599 plz", "output": "{\"min\": null, \"max\": 599}"}
+{"input": "extract price range: dell backpack over 1299", "output": "{\"min\": 1299, \"max\": null}"}
+{"input": "extract price range: high end drone above 99", "output": "{\"min\": 99, \"max\": null}"}
+{"input": "extract price range: brown nike jacket between 8999 and 20000", "output": "{\"min\": 8999, \"max\": 20000}"}
+{"input": "extract price range: laptop with warranty", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: looking for backpack above 1299", "output": "{\"min\": 1299, \"max\": null}"}
+{"input": "extract price range: from 999 to 8999 for a ring", "output": "{\"min\": 999, \"max\": 8999}"}
+{"input": "extract price range: speaker priced above 999", "output": "{\"min\": 999, \"max\": null}"}
+{"input": "extract price range: lg sunglasses reviews", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me shoes between 4999 and 9999", "output": "{\"min\": 4999, \"max\": 9999}"}
+{"input": "extract price range: durable watch", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: chair in the range of 799 to 20000", "output": "{\"min\": 799, \"max\": 20000}"}
+{"input": "extract price range: drone that costs more than roughly 199", "output": "{\"min\": 199, \"max\": null}"}
+{"input": "extract price range: camera somewhere in 499 to 20k", "output": "{\"min\": 499, \"max\": 20000}"}
+{"input": "extract price range: high end speaker above 10k", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: want a chair somewhere between ₹799 and Rs. 3999", "output": "{\"min\": 799, \"max\": 3999}"}
+{"input": "extract price range: show me samsung chair", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: camera above 1499", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: lg microwave costing between 599 and 5k", "output": "{\"min\": 599, \"max\": 4999}"}
+{"input": "extract price range: camera within 3,499 and 20000", "output": "{\"min\": 3499, \"max\": 20000}"}
+{"input": "extract price range: sunglasses that costs more than 8999", "output": "{\"min\": 8999, \"max\": null}"}
+{"input": "extract price range: phone starting 799 and up", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: want a bicycle somewhere between 299 and 199", "output": "{\"min\": 199, \"max\": 299}"}
+{"input": "extract price range: sofa priced from 25000 and up", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: grey shoes over 50,000", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: budget drone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: chair above 3,999 only", "output": "{\"min\": 3999, \"max\": null}"}
+{"input": "extract price range: from 1,999 to 2999 for a drone", "output": "{\"min\": 1999, \"max\": 2999}"}
+{"input": "extract price range: headphones for gifting", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: tablet for gifting", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: lightweight camera", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: want keyboard for under around 5999", "output": "{\"min\": null, \"max\": 5999}"}
+{"input": "extract price range: budget ring", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: comfortable jacket", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shoes in the range of ₹1499 to roughly 9999", "output": "{\"min\": 1499, \"max\": 9999}"}
+{"input": "extract price range: durable speaker", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: need drone, nothing over 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: looking for refrigerator above Rs. 299", "output": "{\"min\": 299, \"max\": null}"}
+{"input": "extract price range: searching backpack between around 25000 and 2999 bucks", "output": "{\"min\": 2999, \"max\": 25000}"}
+{"input": "extract price range: looking for a keyboard from 9k to 50,000", "output": "{\"min\": 8999, \"max\": 50000}"}
+{"input": "extract price range: backpack more than 599 preferred", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: shirt priced anywhere from roughly 999 to 2499", "output": "{\"min\": 999, \"max\": 2499}"}
+{"input": "extract price range: backpack with price starting at INR 3499", "output": "{\"min\": 3499, \"max\": null}"}
+{"input": "extract price range: budget for phone: Rs 499 to around 4999", "output": "{\"min\": 499, \"max\": 4999}"}
+{"input": "extract price range: phone for gifting", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: affordable dell sunglasses", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: brown chair for men", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bag within 599 and INR 1499", "output": "{\"min\": 599, \"max\": 1499}"}
+{"input": "extract price range: monitor above INR 20000", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: cheap sofa", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: affordable ring between 999 and around 4999", "output": "{\"min\": 999, \"max\": 4999}"}
+{"input": "extract price range: I need a canon laptop priced between 1,499 and 8999", "output": "{\"min\": 1499, \"max\": 8999}"}
+{"input": "extract price range: sumthing under roughly 10000 plz", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: trending drone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me sofa under 799", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: white backpack priced from 7999 to 25k", "output": "{\"min\": 7999, \"max\": 25000}"}
+{"input": "extract price range: black watch over 3k", "output": "{\"min\": 2999, \"max\": null}"}
+{"input": "extract price range: looking for chair above ₹999", "output": "{\"min\": 999, \"max\": null}"}
+{"input": "extract price range: show me microwave over 25,000", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: best laptop for daily use", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: I am looking for products priced between 6999 and Rs 10000", "output": "{\"min\": 6999, \"max\": 10000}"}
+{"input": "extract price range: show me headphones between 599 and 3,999", "output": "{\"min\": 599, \"max\": 3999}"}
+{"input": "extract price range: microwave priced 999-10k", "output": "{\"min\": 999, \"max\": 10000}"}
+{"input": "extract price range: tv between 1499 and around 50000", "output": "{\"min\": 1499, \"max\": 50000}"}
+{"input": "extract price range: sunglasses cheaper than 1,499", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: need affordable laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: grey shoes less than 10000", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: trending phone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: drone that costs between 3.5k and 15000", "output": "{\"min\": 3499, \"max\": 15000}"}
+{"input": "extract price range: budget for refrigerator: 8999 to 25000", "output": "{\"min\": 8999, \"max\": 25000}"}
+{"input": "extract price range: watch priced 3499-5999", "output": "{\"min\": 3499, \"max\": 5999}"}
+{"input": "extract price range: looking for grey chair", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: best jacket for daily use", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: green keyboard for men", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: monitor roughly around 199", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: I am looking for products priced between roughly 799 and 1,999", "output": "{\"min\": 799, \"max\": 1999}"}
+{"input": "extract price range: green tablet priced from 299 to 599", "output": "{\"min\": 299, \"max\": 599}"}
+{"input": "extract price range: need tv in 999 to Rs. 7999 range", "output": "{\"min\": 999, \"max\": 7999}"}
+{"input": "extract price range: bag between 599 and 1499", "output": "{\"min\": 599, \"max\": 1499}"}
+{"input": "extract price range: tv cheaper than 4,999", "output": "{\"min\": null, \"max\": 4999}"}
+{"input": "extract price range: cheap shirt between 3499 and 5,999", "output": "{\"min\": 3499, \"max\": 5999}"}
+{"input": "extract price range: microwave with warranty", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: looking for a tablet from 299 to 15k", "output": "{\"min\": 299, \"max\": 15000}"}
+{"input": "extract price range: laptop above 299", "output": "{\"min\": 299, \"max\": null}"}
+{"input": "extract price range: bose laptop in around 1299 to roughly 9999 range", "output": "{\"min\": 1299, \"max\": 9999}"}
+{"input": "extract price range: tablet priced 999-8k", "output": "{\"min\": 999, \"max\": 7999}"}
+{"input": "extract price range: navy phone priced from 3k to 8k", "output": "{\"min\": 2999, \"max\": 7999}"}
+{"input": "extract price range: navy chair for men", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: samsung tablet in green", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sony sofa in 6,999 to 8999 range", "output": "{\"min\": 6999, \"max\": 8999}"}
+{"input": "extract price range: green headphones less than 499", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: phone more than Rs. 99 preferred", "output": "{\"min\": 99, \"max\": null}"}
+{"input": "extract price range: refrigerator between 9999 and 25000", "output": "{\"min\": 9999, \"max\": 25000}"}
+{"input": "extract price range: jacket within a budget of 10,000", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: durable tablet", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: green apple refrigerator above 799", "output": "{\"min\": 799, \"max\": null}"}
+{"input": "extract price range: premium ring over ₹50000", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: sumthing under Rs. 1499 plz", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: ring on sale", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: shirt priced 99-2,999", "output": "{\"min\": 99, \"max\": 2999}"}
+{"input": "extract price range: new arrivals watch", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: jacket starting from around 1499", "output": "{\"min\": 1499, \"max\": null}"}
+{"input": "extract price range: need sofa, nothing over ₹4999", "output": "{\"min\": null, \"max\": 4999}"}
+{"input": "extract price range: sumthing under 299 plz", "output": "{\"min\": null, \"max\": 299}"}
+{"input": "extract price range: red tv under 499 please", "output": "{\"min\": null, \"max\": 499}"}
+{"input": "extract price range: brown earbuds for men", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sony watch costing between 4k and 9999", "output": "{\"min\": 3999, \"max\": 9999}"}
+{"input": "extract price range: best speaker for daily use", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: budget for bag: 799 to roughly 999", "output": "{\"min\": 799, \"max\": 999}"}
+{"input": "extract price range: keyboard for gifting", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: ring cheaper than 10k", "output": "{\"min\": null, \"max\": 10000}"}
+{"input": "extract price range: monitor for less than roughly 199", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: backpack between Rs. 199 and 25000, brown preferred", "output": "{\"min\": 199, \"max\": 25000}"}
+{"input": "extract price range: lg phone reviews", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: lightweight sunglasses", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: minimum 4k for sofa", "output": "{\"min\": 3999, \"max\": null}"}
+{"input": "extract price range: minimum roughly 15000 for jacket", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: microwave starting roughly 4999 and up", "output": "{\"min\": 4999, \"max\": null}"}
+{"input": "extract price range: lg chair minimum 10k", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: stylish green laptop", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: laptop above Rs. 15000", "output": "{\"min\": 15000, \"max\": null}"}
+{"input": "extract price range: budget earbuds", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bag priced from 599 and up", "output": "{\"min\": 599, \"max\": null}"}
+{"input": "extract price range: sunglasses at least 999", "output": "{\"min\": 999, \"max\": null}"}
+{"input": "extract price range: looking for microwave above 50,000", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: need decent camera", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: find green tv between 4999 and 15000", "output": "{\"min\": 4999, \"max\": 15000}"}
+{"input": "extract price range: canon monitor reviews", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: jacket between 199 and 1,999", "output": "{\"min\": 199, \"max\": 1999}"}
+{"input": "extract price range: tv not under ₹5999", "output": "{\"min\": 5999, \"max\": null}"}
+{"input": "extract price range: need earbuds in 8k to 8999 range", "output": "{\"min\": 7999, \"max\": 8999}"}
+{"input": "extract price range: I am looking for products priced between 999 and 3999", "output": "{\"min\": 999, \"max\": 3999}"}
+{"input": "extract price range: searching refrigerator between ₹199 and 599 bucks", "output": "{\"min\": 199, \"max\": 599}"}
+{"input": "extract price range: affordable microwave", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show chair priced under 25k", "output": "{\"min\": null, \"max\": 25000}"}
+{"input": "extract price range: need a watch no more than INR 599", "output": "{\"min\": null, \"max\": 599}"}
+{"input": "extract price range: tablet, budget up to ₹6999", "output": "{\"min\": null, \"max\": 6999}"}
+{"input": "extract price range: new arrivals sofa", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sofa max 25000", "output": "{\"min\": null, \"max\": 25000}"}
+{"input": "extract price range: headphones within a budget of Rs 8999", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: refrigerator at least around 2499", "output": "{\"min\": 2499, \"max\": null}"}
+{"input": "extract price range: from 499 to ₹50000 for a tablet", "output": "{\"min\": 499, \"max\": 50000}"}
+{"input": "extract price range: quality speaker between 99 and 7999", "output": "{\"min\": 99, \"max\": 7999}"}
+{"input": "extract price range: grey nike refrigerator between 5999 and 9k", "output": "{\"min\": 5999, \"max\": 8999}"}
+{"input": "extract price range: bag with warranty", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: phone within a budget of 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: watch costing at least 20000", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: navy laptop over 3499", "output": "{\"min\": 3499, \"max\": null}"}
+{"input": "extract price range: grey bag priced from 1.5k to 7999", "output": "{\"min\": 1499, \"max\": 7999}"}
+{"input": "extract price range: bag that won't break the bank over 9999", "output": "{\"min\": null, \"max\": 9999}"}
+{"input": "extract price range: camera, at least Rs. 1299 range", "output": "{\"min\": 1299, \"max\": null}"}
+{"input": "extract price range: phone with price starting at Rs 6999", "output": "{\"min\": 6999, \"max\": null}"}
+{"input": "extract price range: budget refrigerator", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: microwave under 99", "output": "{\"min\": null, \"max\": 99}"}
+{"input": "extract price range: need a speaker no more than 1499", "output": "{\"min\": null, \"max\": 1499}"}
+{"input": "extract price range: trending tv", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me sofa over Rs. 25000", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: trending sunglasses", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: budget green speaker", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: show me monitor under 4k", "output": "{\"min\": null, \"max\": 3999}"}
+{"input": "extract price range: stylish blue speaker", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: chair, budget up to 2.5k", "output": "{\"min\": null, \"max\": 2499}"}
+{"input": "extract price range: need microwave above 50,000 budget", "output": "{\"min\": 50000, \"max\": null}"}
+{"input": "extract price range: find brown tv between 999 and 5999", "output": "{\"min\": 999, \"max\": 5999}"}
+{"input": "extract price range: drone with warranty", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: sofa priced from around 3499 and up", "output": "{\"min\": 3499, \"max\": null}"}
+{"input": "extract price range: show me sofa between 1.5k and roughly 2499", "output": "{\"min\": 1499, \"max\": 2499}"}
+{"input": "extract price range: affordable sunglasses", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: I need a dell backpack priced between 299 and 3999", "output": "{\"min\": 299, \"max\": 3999}"}
+{"input": "extract price range: bag above 25k only", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: canon ring in grey", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: headphones priced anywhere from 599 to 999", "output": "{\"min\": 599, \"max\": 999}"}
+{"input": "extract price range: speaker more than 10,000 preferred", "output": "{\"min\": 10000, \"max\": null}"}
+{"input": "extract price range: blue samsung sofa between 999 and 25k", "output": "{\"min\": 999, \"max\": 25000}"}
+{"input": "extract price range: sofa with warranty", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: high end headphones above 1,999", "output": "{\"min\": 1999, \"max\": null}"}
+{"input": "extract price range: jacket starting 20k and up", "output": "{\"min\": 20000, \"max\": null}"}
+{"input": "extract price range: anything cheap around 299 ish", "output": "{\"min\": null, \"max\": 299}"}
+{"input": "extract price range: find me phone within 599", "output": "{\"min\": null, \"max\": 599}"}
+{"input": "extract price range: from Rs. 799 to 25000 for a backpack", "output": "{\"min\": 799, \"max\": 25000}"}
+{"input": "extract price range: canon refrigerator at most 999", "output": "{\"min\": null, \"max\": 999}"}
+{"input": "extract price range: looking for brown shoes", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: ring more than 25000 preferred", "output": "{\"min\": 25000, \"max\": null}"}
+{"input": "extract price range: drone priced below 8999", "output": "{\"min\": null, \"max\": 8999}"}
+{"input": "extract price range: looking for laptop below INR 199", "output": "{\"min\": null, \"max\": 199}"}
+{"input": "extract price range: blue watch under 799 please", "output": "{\"min\": null, \"max\": 799}"}
+{"input": "extract price range: from 2,499 to 50k for a chair", "output": "{\"min\": 2499, \"max\": 50000}"}
+{"input": "extract price range: camera between 5999 and ₹50000, white preferred", "output": "{\"min\": 5999, \"max\": 50000}"}
+{"input": "extract price range: show me bicycle under 1.3k", "output": "{\"min\": null, \"max\": 1299}"}
+{"input": "extract price range: keyboard between 15000 and 50000, red preferred", "output": "{\"min\": 15000, \"max\": 50000}"}
+{"input": "extract price range: need drone more than INR 9999", "output": "{\"min\": 9999, \"max\": null}"}
+{"input": "extract price range: top rated tablet", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: laptop not exceeding 1299", "output": "{\"min\": null, \"max\": 1299}"}
+{"input": "extract price range: canon refrigerator under 599", "output": "{\"min\": null, \"max\": 599}"}
+{"input": "extract price range: I need a samsung earbuds priced between 99 and 5,999", "output": "{\"min\": 99, \"max\": 5999}"}
+{"input": "extract price range: tv somewhere in INR 5999 to 99", "output": "{\"min\": 99, \"max\": 5999}"}
+{"input": "extract price range: sony keyboard minimum 10000", "output": "{\"min\": 10000, \"max\": null}"}
+{"input": "extract price range: decent keyboard between 10000 and roughly 15000", "output": "{\"min\": 10000, \"max\": 15000}"}
+{"input": "extract price range: find me earbuds within 7999", "output": "{\"min\": null, \"max\": 7999}"}
+{"input": "extract price range: budget dell drone", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: bicycle, budget 299 to around 25000", "output": "{\"min\": 299, \"max\": 25000}"}
+{"input": "extract price range: refrigerator with price starting at 299", "output": "{\"min\": 299, \"max\": null}"}
+{"input": "extract price range: need good earbuds", "output": "{\"min\": null, \"max\": null}"}
+{"input": "extract price range: backpack more than 8k preferred", "output": "{\"min\": 7999, \"max\": null}"}
+{"input": "extract price range: speaker that won't break the bank over ₹6999", "output": "{\"min\": null, \"max\": 6999}"}
+{"input": "extract price range: speaker within 15,000 and 25000", "output": "{\"min\": 15000, \"max\": 25000}"}
+{"input": "extract price range: sofa recommendations", "output": "{\"min\": null, \"max\": null}"}
