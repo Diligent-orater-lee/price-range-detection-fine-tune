@@ -2,167 +2,27 @@
 Generates finetune_data.jsonl: a price-range extraction fine-tuning dataset
 for FLAN-T5-small.
 
+Templates and value pools live in templates.py.
+
 Run: python generate_dataset.py
 """
 import json
 import random
 
-random.seed(42)
-
-# ---------------------------------------------------------------------------
-# Value pools
-# ---------------------------------------------------------------------------
-products = [
-    "shoes", "laptop", "phone", "watch", "bag", "shirt", "camera",
-    "headphones", "tablet", "jacket", "sofa", "tv", "monitor",
-    "keyboard", "chair", "bicycle", "refrigerator", "microwave",
-    "sunglasses", "backpack", "drone", "speaker", "ring", "earbuds",
-]
-
-colors = ["red", "blue", "black", "white", "grey", "green", "navy", "brown"]
-
-brands = ["nike", "apple", "samsung", "sony", "dell", "lg", "canon", "bose"]
-
-adjectives = ["cheap", "affordable", "decent", "good", "budget", "premium", "quality"]
-
-price_values = [
-    99, 199, 299, 499, 599, 799, 999, 1299, 1499, 1999,
-    2499, 2999, 3499, 3999, 4999, 5999, 6999, 7999, 8999, 9999,
-    10000, 15000, 20000, 25000, 50000,
-]
-
-# ---------------------------------------------------------------------------
-# 100 templates: 25 range / 25 max-only / 25 min-only / 25 neither
-# ---------------------------------------------------------------------------
-RANGE_TEMPLATES = [
-    "find {color} {product} between {min} and {max}",
-    "show me {product} between {min} and {max}",
-    "{product} between {min} and {max}",
-    "{product} {min} to {max}",
-    "from {min} to {max} for a {product}",
-    "looking for a {product} from {min} to {max}",
-    "I am looking for products priced between {min} and {max}",
-    "I need a {brand} {product} priced between {min} and {max}",
-    "{color} {product} priced from {min} to {max}",
-    "{product} in the range of {min} to {max}",
-    "{product} within {min} and {max}",
-    "budget for {product}: {min} to {max}",
-    "{brand} {product} costing between {min} and {max}",
-    "{adjective} {product} between {min} and {max}",
-    "want a {product} somewhere between {min} and {max}",
-    "{product} priced anywhere from {min} to {max}",
-    "{color} {brand} {product} between {min} and {max}",
-    "{product}, budget {min} to {max}",
-    "searching {product} between {min} and {max} bucks",
-    "{product} that costs between {min} and {max}",
-    "need {product} in {min} to {max} range",
-    "{product} priced {min}-{max}",
-    "{product} somewhere in {min} to {max}",
-    "{brand} {product} in {min} to {max} range",
-    "{product} between {min} and {max}, {color} preferred",
-]
-
-MAX_TEMPLATES = [
-    "show me {product} under {max}",
-    "{product} under {max}",
-    "looking for {product} below {max}",
-    "{color} {product} less than {max}",
-    "need a {product} no more than {max}",
-    "{brand} {product} at most {max}",
-    "{product} cheaper than {max}",
-    "{product} not exceeding {max}",
-    "{product} that won't break the bank over {max}",
-    "sumthing under {max} plz",
-    "anything {adjective} around {max} ish",
-    "{product} roughly around {max}",
-    "want {product} for under {max}",
-    "{product} priced below {max}",
-    "{brand} {product} under {max}",
-    "find me {product} within {max}",
-    "{product} within a budget of {max}",
-    "{product} max {max}",
-    "{product}, budget up to {max}",
-    "{color} {product} under {max} please",
-    "show {product} priced under {max}",
-    "need {product}, nothing over {max}",
-    "{product} up to {max}",
-    "{product} for less than {max}",
-    "{adjective} {product} not more than {max}",
-]
-
-# templates whose wording already implies approximation
-APPROX_WORDED_TEMPLATES = {
-    "anything {adjective} around {max} ish",
-    "{product} roughly around {max}",
-}
-
-MIN_TEMPLATES = [
-    "looking for {product} above {min}",
-    "{product} above {min}",
-    "{brand} {product} over {min}",
-    "need {product} more than {min}",
-    "{product} at least {min}",
-    "{product} starting from {min}",
-    "minimum {min} for {product}",
-    "{color} {product} over {min}",
-    "{product} priced above {min}",
-    "want {product} costing more than {min}",
-    "{product} with price starting at {min}",
-    "{brand} {product} minimum {min}",
-    "{product} above {min} only",
-    "show me {product} over {min}",
-    "{product} that costs more than {min}",
-    "{product} not under {min}",
-    "high end {product} above {min}",
-    "{product} starting {min} and up",
-    "{product}, at least {min} range",
-    "premium {product} over {min}",
-    "need {product} above {min} budget",
-    "{product} costing at least {min}",
-    "{color} {brand} {product} above {min}",
-    "{product} priced from {min} and up",
-    "{product} more than {min} preferred",
-]
-
-NEITHER_TEMPLATES = [
-    "need {adjective} {product}",
-    "looking for {color} {product}",
-    "show me {brand} {product}",
-    "{product} recommendations",
-    "best {product} for daily use",
-    "{adjective} {color} {product}",
-    "{brand} {product} reviews",
-    "top rated {product}",
-    "{product} with good battery life",
-    "stylish {color} {product}",
-    "{product} for gifting",
-    "durable {product}",
-    "{brand} {product} in {color}",
-    "affordable {product}",
-    "budget {product}",
-    "cheap {product}",
-    "{product} on sale",
-    "trending {product}",
-    "{adjective} {brand} {product}",
-    "new arrivals {product}",
-    "{product} with warranty",
-    "comfortable {product}",
-    "{color} {product} for men",
-    "{product} for women",
-    "lightweight {product}",
-]
-
-ALL_TEMPLATES = (
-    [("range", t) for t in RANGE_TEMPLATES]
-    + [("max", t) for t in MAX_TEMPLATES]
-    + [("min", t) for t in MIN_TEMPLATES]
-    + [("neither", t) for t in NEITHER_TEMPLATES]
+from templates import (
+    APPROX_WORDED_TEMPLATES,
+    ADJECTIVES as adjectives,
+    BRANDS as brands,
+    COLORS as colors,
+    MAX_TEMPLATES,
+    MIN_TEMPLATES,
+    NEITHER_TEMPLATES,
+    PRICE_VALUES as price_values,
+    PRODUCTS as products,
+    RANGE_TEMPLATES,
 )
 
-assert len(RANGE_TEMPLATES) == 25
-assert len(MAX_TEMPLATES) == 25
-assert len(MIN_TEMPLATES) == 25
-assert len(NEITHER_TEMPLATES) == 25
+random.seed(42)
 
 # ---------------------------------------------------------------------------
 # Number formatting
@@ -266,9 +126,9 @@ def add_sample(template, slots, min_val, max_val):
     return True
 
 
-# ---- Range samples (250), ~10% (25) with reversed surface order ----------
-TARGET_RANGE = 250
-REVERSED_TARGET = 25
+# ---- Range samples (1250), ~10% (125) with reversed surface order -------
+TARGET_RANGE = 1250
+REVERSED_TARGET = 125
 
 range_indices = list(range(TARGET_RANGE))
 reversed_indices = set(random.sample(range_indices, REVERSED_TARGET))
@@ -301,8 +161,8 @@ while count < TARGET_RANGE and attempts < TARGET_RANGE * 50:
 
 assert count == TARGET_RANGE, f"only generated {count} range samples"
 
-# ---- Max-only samples (250) -----------------------------------------------
-TARGET_MAX = 250
+# ---- Max-only samples (1250) -----------------------------------------------
+TARGET_MAX = 1250
 count = 0
 attempts = 0
 while count < TARGET_MAX and attempts < TARGET_MAX * 50:
@@ -321,8 +181,8 @@ while count < TARGET_MAX and attempts < TARGET_MAX * 50:
 
 assert count == TARGET_MAX, f"only generated {count} max-only samples"
 
-# ---- Min-only samples (250) -----------------------------------------------
-TARGET_MIN = 250
+# ---- Min-only samples (1250) -----------------------------------------------
+TARGET_MIN = 1250
 count = 0
 attempts = 0
 while count < TARGET_MIN and attempts < TARGET_MIN * 50:
@@ -340,8 +200,8 @@ while count < TARGET_MIN and attempts < TARGET_MIN * 50:
 
 assert count == TARGET_MIN, f"only generated {count} min-only samples"
 
-# ---- Neither samples (250) -------------------------------------------------
-TARGET_NEITHER = 250
+# ---- Neither samples (1250) -------------------------------------------------
+TARGET_NEITHER = 1250
 count = 0
 attempts = 0
 while count < TARGET_NEITHER and attempts < TARGET_NEITHER * 200:
@@ -361,8 +221,8 @@ assert count == TARGET_NEITHER, f"only generated {count} neither samples"
 # ---------------------------------------------------------------------------
 random.shuffle(samples)
 
-assert len(samples) == 1000
-assert len(used_inputs) == 1000
+assert len(samples) == 5000
+assert len(used_inputs) == 5000
 
 with open("finetune_data.jsonl", "w", encoding="utf-8") as f:
     for s in samples:
